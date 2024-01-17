@@ -12,3 +12,6 @@
     <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZenMachina16&style=flat-square&color=blue" alt="viewcount"/>
+</div>
