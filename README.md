@@ -55,9 +55,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 </div>
 ---
 
-### :fire: My Stats :
-![ZenMachina16's Stats](https://github-readme-stats.vercel.app/api?username=ZenMachina16&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![ZenMachina16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMachina16&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
   
