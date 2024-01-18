@@ -8,7 +8,7 @@
   <a href="https://twitter.com/BinayakB_16">
     <img src="https://img.shields.io/badge/x-black?logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="discordapp.com/users/771370672987045910">
+  <a href="https://discordapp.com/users/771370672987045910">
     <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
