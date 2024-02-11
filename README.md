@@ -55,6 +55,8 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 </div>
 ---
 
+![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenMachina16&show_icons=true&theme=radical)
+
 
 
   
