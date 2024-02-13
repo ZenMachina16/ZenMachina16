@@ -13,7 +13,8 @@
   </a>
 </div>
 <div id="badges" align="center">
- ![GitHub Views](https://komarev.com/ghpvc/?username=<ZenMachina16>)
+<!--  ![GitHub Views](https://komarev.com/ghpvc/?username=<ZenMachina16>) -->
+ <img src="https://komarev.com/ghpvc/?username=<ZenMachina16>" alt="viewcount"/>
 
 </div>
 <h1 align="center">
