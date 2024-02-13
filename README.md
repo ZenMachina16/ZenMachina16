@@ -13,7 +13,8 @@
   </a>
 </div>
 <div id="badges" align="center">
- ![](https://komarev.com/ghpvc/?username=your-github-ZenMachina16&color=green)
+ ![GitHub Views](https://komarev.com/ghpvc/?username=<ZenMachina16>)
+
 </div>
 <h1 align="center">
   hey there
