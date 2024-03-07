@@ -59,7 +59,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 ![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenMachina16&show_icons=true&theme=radical)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMachina16&layout=compact)
+![Binayak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMachina16&layout=compact)
 
 
 
