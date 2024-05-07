@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
-<div id="header" align="left">
+
   <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg/image"></a></blockquote>
-</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/binayakbhattacharjee16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
