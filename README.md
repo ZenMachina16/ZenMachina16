@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 <div id="header" align="left">
-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p></blockquote>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/binayakbhattacharjee16/">
