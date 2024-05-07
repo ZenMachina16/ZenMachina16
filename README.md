@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 <div id="header" align="left">
-  <img src="(https://badgr.com/backpack/badges/6639a7d71a4d9c1346989d87)" width="100"/>
+  <img src="https://badgr.com/backpack/badges/6639a7d71a4d9c1346989d87" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/binayakbhattacharjee16/">
