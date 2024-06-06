@@ -60,9 +60,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 </div>
 
 
-## 📈 Activity Graph
-
-[![Zenmachina16's Activity Graph](https://activity-graph.herokuapp.com/graph?username=zenmachina16&theme=react-dark)]
 
 
 ![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenMachina16&show_icons=true&theme=radical)
