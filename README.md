@@ -58,7 +58,12 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>
 </div>
----
+
+
+## 📈 Activity Graph
+
+[![Zenmachina16's Activity Graph](https://activity-graph.herokuapp.com/graph?username=zenmachina16&theme=react-dark)]
+
 
 ![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenMachina16&show_icons=true&theme=radical)
 ---
