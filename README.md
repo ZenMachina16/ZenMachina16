@@ -62,10 +62,25 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 
 
-![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenMachina16&show_icons=true&theme=radical)
----
-![Binayak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMachina16&layout=compact)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=ZenMachina16&theme=transparent&hide_border=true&border_radius=4.6&mode=weekly"  alt="readme stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ZenMachina16&show_icons=true&bg_color=00000000&hide_border=true" alt="readme stats" />
+  <br/>
+  <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMachina16&layout=donut&theme=transparent&hide_border=true" alt="top langs" />
+</div>
 
+<br/><br/>
+<hr/>
+
+<br/>
+
+<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+the+View🙋🏻‍♂️!;+Take+Care🤝" />
+</h1>
+</div>
 
 
   
