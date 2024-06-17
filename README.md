@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="580"/>
 </div>
+<br><br>
 
  <div> <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg/image"></a></blockquote></div>
 
@@ -74,9 +75,13 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 <br/><br/>
 <hr/>
 
-<br/>
-
-<div align="center">
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=ZenMachina16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<br>
+  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+the+View🙋🏻‍♂️!;+Take+Care🤝" />
 </h1>
