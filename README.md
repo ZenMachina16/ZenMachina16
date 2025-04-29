@@ -6,14 +6,18 @@
  <div> <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bZ9KWreiRxuC3z0tsvMivg/image"></a></blockquote></div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/binayakbhattacharjee16/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:binayakb1604@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/BinayakB_16">
-    <img src="https://img.shields.io/badge/x-black?logo=x&logoColor=white" alt="Twitter Badge"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/binayak16/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://discordapp.com/users/771370672987045910">
-    <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+
+  <!-- Twitter/X -->
+  <a href="https://x.com/BinayakB_16">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </div>
 <div id="badges" align="center">
@@ -69,23 +73,110 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 
 
+  <summary><b>📊 GitHub Statistics</b></summary>
+  <div align="center">
+    <h4>💫 Overall Stats</h4>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=zenmachina16&show_icons=true&theme=github_dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=contribs"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=zenmachina16&show_icons=true&theme=default&hide_border=true&hide=contribs"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=zenmachina16&show_icons=true&theme=github_dark&hide_border=true" />
+    </picture>
+    
+<h4>🔥 Streak Stats</h4>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=zenmachina16&theme=tokyonight&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F8D866&sideLabels=F8D866&dates=FFFFFF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=zenmachina16&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenmachina16&theme=tokyonight&hide_border=true" />
+</picture>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=ZenMachina16&theme=transparent&hide_border=true&border_radius=4.6&mode=weekly"  alt="readme stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ZenMachina16&show_icons=true&bg_color=00000000&hide_border=true" alt="readme stats" />
-  <br/>
-  <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenMachina16&layout=donut&theme=transparent&hide_border=true" alt="top langs" />
+
+<!-- Coding Activity Section -->
+
+  <summary><b>👨‍💻 Coding Activity</b></summary>
+  <div align="center">
+    <h4>💡 Languages & Tools</h4>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmachina16&layout=compact&theme=github_dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmachina16&layout=compact&theme=default&hide_border=true&langs_count=8"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmachina16&layout=compact&theme=github_dark&hide_border=true" />
+    </picture>
+  </div>
+  <!-- Additional Achievement Cards -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenmachina16&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenmachina16&theme=tokyonight" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenmachina16&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenmachina16&theme=tokyonight" />
+  </picture>
 </div>
 
-<br/><br/>
-<hr/>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ZenMachina16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<br>
-  
+<!-- Achievements Section -->
+
+  <summary><b>🏆 GitHub Achievements</b></summary>
+  <div align="center">
+    <h4>🌟 Trophies</h4>
+    <picture>
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=zenmachina16&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=zenmachina16&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-profile-trophy.vercel.app/?username=zenmachina16&theme=onestar&no-frame=true&column=4" />
+    </picture>
+
+  </div>
+
+
+<!-- Activity Graph -->
+
+  <summary><b>📊 Recent Activity</b></summary>
+  <br/>
+  <div align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=zenmachina16&custom_title=Achal's%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=zenmachina16&custom_title=Achal's%20Activity%20Graph&bg_color=ffffff&color=000000&line=0969da&point=000000&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenmachina16&theme=tokyo-night&hide_border=true" />
+    </picture>
+  </div>
+
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
