@@ -165,7 +165,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
   <div align="center">
     <picture>
       <source
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=zenmachina16&custom_title=Achal's%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=zenmachina16&custom_title=Binayak's%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
