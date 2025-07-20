@@ -12,19 +12,7 @@
     </a>
   </div>
 
-  <!-- Credly Badge 1 -->
-  <div>
-    <a href="https://www.credly.com/badges/a9a623e5-5268-4dd3-a8eb-395744e59215/public_url">
-      <img width="120px" height="120px" src="https://images.credly.com/size/340x340/images/2bdfc035-567e-432e-b846-d0c4e09c632a/image.png" alt="Credly Badge 1">
-    </a>
-  </div>
 
-  <!-- Credly Badge 2 -->
-  <div>
-    <a href="https://www.credly.com/badges/ebce5196-7452-4f8b-a245-e049d2b33ae6/public_url">
-      <img width="120px" height="120px" src="https://images.credly.com/size/340x340/images/15b2a2e7-80dc-4452-bb21-7d9b21b6bc93/image.png" alt="Credly Badge 2">
-    </a>
-  </div>
 </div>
 
  
